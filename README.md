@@ -1,7 +1,7 @@
 # for Lambda createDB_Lambda.py
 Run on version python3.12
-Layers need to be created and added to lambda to access postgres.
-psycopg2-layer -custom build 
+In lambda Layers need to be created and added to lambda layer to access postgres.
+psycopg2-layer -custom build layer 
 
 #  base64Saves3.py
 ======  base64Saves3.py ============
